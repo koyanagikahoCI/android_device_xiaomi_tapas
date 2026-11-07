@@ -77,3 +77,13 @@ persist.log.tag.minksocket=S
 
 # Bluetooth
 persist.vendor.bt.a2dp.aac_whitelist=false
+
+# mist
+ro.mist.display=1080 x 2400, 120 hz
+ro.mist.battery=5000mah
+ro.mist.soc=Snapdragon® 685
+ro.mist.camera=50MP + 8MP + 2MP
+ro.mist.front=13MP
+ro.mist.platform=SM6225
+ro.mist.screen=6.67' Amoled LCD
+ro.mist.device.name=REDMI Note 12 4G/NFC 
