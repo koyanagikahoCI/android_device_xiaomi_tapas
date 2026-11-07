@@ -27,3 +27,8 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     BuildFingerprint=Redmi/tapas_global/tapas:15/AQ3A.240829.003/OS2.0.205.0.VMTMIXM:user/release-keys \
     DeviceProduct=tapas
 
+MISTOS_MAINTAINER := kamiinarappCI
+WITH_GMS := true
+TARGET_USES_MINI_GAPPS := true
+TARGET_ENABLE_BLUR := false
+TARGET_DEFAULT_PIXEL_LAUNCHER := false
